@@ -1,5 +1,4 @@
 var React = require('react');
-var CommentForm = require('./CommentForm.jsx');
 var Comment = require('./Comment.jsx');
 var CommentList = require('./CommentList.jsx');
 
